@@ -27,3 +27,14 @@ a:hover{
     padding: 10px;
     border-radius: 5px;
 }
+
+/* Style for the back to home link in about page */
+#back-home{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border: 2px solid #00f0ff;
+    background-color: #1a1f2a;
+    padding: 10px;
+    border-radius: 5px;
+}
